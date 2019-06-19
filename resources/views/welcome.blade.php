@@ -75,9 +75,54 @@
         <div class="row justify-content-center mb-5 pb-3">
             <div class="col-md-7 text-center heading-section ftco-animate">
                 <h2 class="mb-4">Kenapa Memilih KNN</h2>
-                <p>sebuah metode untuk melakukan             klasifikasi terhadap objek berdasarkan     data pembelajaran yang jaraknya paling  dekat dengan objek tersebut
-                    . Untuk mengklasifikasikan obyek baru                 berdasarkan atribut dan sample-sample dari       training data
+                <p>sebuah metode untuk melakukan klasifikasi terhadap objek berdasarkan data pembelajaran yang jaraknya
+                    paling dekat dengan objek tersebut
+                    . Untuk mengklasifikasikan obyek baru berdasarkan atribut dan sample-sample dari training data
                 </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section bg-light">
+    <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+            <div class="col-md-7 text-center heading-section ftco-animate">
+                <h2 class="mb-4">Faktor Penyebab Penyakit Kulit</h2>
+            </div>
+        </div>
+        <div class="row d-flex">
+            <div class="col-lg-3 col-md-6 ftco-animate">
+                <div class="block-7">
+                    <div class="text-center">
+                        <span class="price"><sup></sup> <span class="number">1<small class="per"></small></span>
+		            <h3 class="heading-2 mb-3">kurangnya pengetahuan            masyarakat tentang kebersihan kulit</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 ftco-animate">
+                <div class="block-7">
+                    <div class="text-center">
+                        <span class="price"><sup></sup> <span class="number">2<small class="per"></small></span>
+		            <h3 class="heading-2 mb-3">Ketidakpedulian Terhadap          Lingkungan Sekitar</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 ftco-animate">
+                <div class="block-7">
+                    <div class="text-center">
+                        <span class="price"><sup></sup> <span class="number">3<small class="per"></small></span>
+		            <h3 class="heading-2 mb-3">Adanya Faktor Keturunan</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 ftco-animate">
+                <div class="block-7">
+                    <div class="text-center">
+                        <span class="price"><sup></sup> <span class="number">4<small class="per"></small></span>
+		            <h3 class="heading-2 mb-3">Bisa disebabkan oleh alergi makanan</h3>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -90,7 +135,9 @@
                 <img src="images/undraw_podcast_q6p7.svg" class="img-fluid" alt="">
                 <div class="heading-section ftco-animate mt-5">
                     <h2 class="mb-4">Penyakit Kulit Manusia</h2>
-                    <p>Kulit merupakan organ tubuh pada manusia yang sangat penting karena terletak pada bagian luar tubuh yang berfungsi untuk menerima rangsangan seperti sentuhan, rasa sakit dan pengaruh lainnya dari luar (Nuraeni, 2016).
+                    <p>Kulit merupakan organ tubuh pada manusia yang sangat penting karena terletak pada bagian luar
+                        tubuh yang berfungsi untuk menerima rangsangan seperti sentuhan, rasa sakit dan pengaruh lainnya
+                        dari luar (Nuraeni, 2016).
                     </p>
                 </div>
             </div>
@@ -103,7 +150,9 @@
                             </div>
                             <div class="mt-3 media-body media-body-2">
                                 <h3 class="heading">Urtikaria</h3>
-                                <p>merupakan penyakit    yang ditandai dengan  adanya edema kulit     superfisial setempat    dengan ukuran yang   bervariasi dikelilingi     oleh halo eritem          disertai rasa gatal atau panas dan terkadang  perut terasa mulas      serta demam
+                                <p>merupakan penyakit yang ditandai dengan adanya edema kulit superfisial setempat
+                                    dengan ukuran yang bervariasi dikelilingi oleh halo eritem disertai rasa gatal atau
+                                    panas dan terkadang perut terasa mulas serta demam
                                 </p>
                             </div>
                         </div>
@@ -115,7 +164,9 @@
                             </div>
                             <div class="mt-3 media-body media-body-2">
                                 <h3 class="heading">Pioderma</h3>
-                                <p>merupakan penyakit        infeksi bakterial kulit      oleh bakteri                   staphylococcus aureus maupun streptococcus sp. Dengan ditandai     gatal, terdapat benjolan merah pada kulit, dan   kemudian menjadi        nanah, kulit meradang, serta demam
+                                <p>merupakan penyakit infeksi bakterial kulit oleh bakteri staphylococcus aureus maupun
+                                    streptococcus sp. Dengan ditandai gatal, terdapat benjolan merah pada kulit, dan
+                                    kemudian menjadi nanah, kulit meradang, serta demam
                                 </p>
                             </div>
                         </div>
@@ -127,7 +178,8 @@
                             </div>
                             <div class="mt-3 media-body media-body-2">
                                 <h3 class="heading">Herpes</h3>
-                                <p>merupakan penyakit radang kulit yang      disebabkan oleh       virus dengan ditandai munculnya bintik      yang berisi cairan     pada bagian kulit       tertentu</p>
+                                <p>merupakan penyakit radang kulit yang disebabkan oleh virus dengan ditandai munculnya
+                                    bintik yang berisi cairan pada bagian kulit tertentu</p>
                             </div>
                         </div>
                     </div>
@@ -136,6 +188,47 @@
         </div>
     </div>
 </section>
+
+<section class="ftco-section bg-light">
+    <div class="container">
+        <div class="row justify-content-center mb-5 pb-5">
+            <div class="col-md-7 text-center heading-section ftco-animate">
+                <h2 class="mb-4">Tahapan Metode KNN
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 align-items-center ftco-animate">
+
+                <div class="tab-content ftco-animate" id="v-pills-tabContent">
+
+                    <div class="tab-pane fade show active" id="v-pills-nextgen" role="tabpanel"
+                         aria-labelledby="v-pills-nextgen-tab">
+                        <div class="d-md-flex">
+                            <div class="one-forth align-self-center">
+                                <img src="{{url('img/knn.png')}}" class="img-fluid" alt="">
+                            </div>
+                            <div class="one-half ml-md-5 align-self-center">
+                                <p>
+                                    Tahapan dalam algoritma ini yaitu pertama    tentukan nilai K yang akan dipakai dalam penelitian, selanjutnya hitung nilai Euclidean distance dengan rumus
+                                </p>
+                                <p>
+                                    𝑑 (𝑥𝑖, 𝑦𝑖) = √∑ (𝑥𝑖 − 𝑦𝑖 𝑛 𝑖=0 ) 2
+                                </p>
+                                <p>
+                                    dimana d(xi,yi) merupakan jarak euclidean, x merupakan data 1, y merupakan data 2, i merupakan fitur ke- dan n merupakan jumlah fitur. Setelah diketahui jarak euclidean distance maka selanjutnya urutkan data dari jarak yang terkecil lalu kelompokan data hasil uji dengan tetangga terdekat yang memiliki jarak terpendek.
+
+                                </p>
+                                <p><a href="{{route('knn')}}" class="btn btn-primary py-3">Get in touch</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="ftco-section testimony-section">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
