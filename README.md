@@ -1,7 +1,11 @@
 # Datamining using KNN
+----
+The system was made as Datamining course. 
+----
 
-This system using laravel framework
+## For Contributor
 
-## cp .env.example .env
-## setup your database
-## php artisan key:generate
+- This system using laravel framework
+- cp .env.example .env
+- setup your database
+- php artisan key:generate
