@@ -9,3 +9,4 @@ The system was made as Datamining course.
 - cp .env.example .env
 - setup your database
 - php artisan key:generate
+- php artisan serve
